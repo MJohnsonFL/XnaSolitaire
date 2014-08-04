@@ -1,0 +1,631 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Backgrounds\Green Fancy.jpg</Source>
+      <Name>Backgrounds\Green Fancy</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\mike\documents\visual studio 2010\Projects\XnaSolitaire\XnaSolitaire\XnaSolitaire\bin\x86\Debug\Content\Backgrounds\Green Fancy.xnb</Output>
+      <Time>2014-08-04T15:37:29.3730864-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\Green Leaf.jpg</Source>
+      <Name>Backgrounds\Green Leaf</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\mike\documents\visual studio 2010\Projects\XnaSolitaire\XnaSolitaire\XnaSolitaire\bin\x86\Debug\Content\Backgrounds\Green Leaf.xnb</Output>
+      <Time>2014-08-04T15:37:29.3755867-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\Purple Wave.jpg</Source>
+      <Name>Backgrounds\Purple Wave</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\mike\documents\visual studio 2010\Projects\XnaSolitaire\XnaSolitaire\XnaSolitaire\bin\x86\Debug\Content\Backgrounds\Purple Wave.xnb</Output>
+      <Time>2014-08-04T15:37:29.378087-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Cards\Ace of Clubs.png</Source>
+      <Name>Cards\Ace of Clubs</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\mike\documents\visual studio 2010\Projects\XnaSolitaire\XnaSolitaire\XnaSolitaire\bin\x86\Debug\Content\Cards\Ace of Clubs.xnb</Output>
+      <Time>2014-08-04T15:37:36.5735007-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Cards\Ace of Diamonds.png</Source>
+      <Name>Cards\Ace of Diamonds</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\mike\documents\visual studio 2010\Projects\XnaSolitaire\XnaSolitaire\XnaSolitaire\bin\x86\Debug\Content\Cards\Ace of Diamonds.xnb</Output>
+      <Time>2014-08-04T15:37:36.5790014-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Cards\Ace of Hearts.png</Source>
+      <Name>Cards\Ace of Hearts</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\mike\documents\visual studio 2010\Projects\XnaSolitaire\XnaSolitaire\XnaSolitaire\bin\x86\Debug\Content\Cards\Ace of Hearts.xnb</Output>
+      <Time>2014-08-04T15:37:36.5910029-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Cards\Ace of Spades.png</Source>
+      <Name>Cards\Ace of Spades</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\mike\documents\visual studio 2010\Projects\XnaSolitaire\XnaSolitaire\XnaSolitaire\bin\x86\Debug\Content\Cards\Ace of Spades.xnb</Output>
+      <Time>2014-08-04T15:37:36.5960035-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Cards\cardBack_blue1.png</Source>
+      <Name>Cards\cardBack_blue1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\mike\documents\visual studio 2010\Projects\XnaSolitaire\XnaSolitaire\XnaSolitaire\bin\x86\Debug\Content\Cards\cardBack_blue1.xnb</Output>
+      <Time>2014-08-04T15:37:36.5990039-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Cards\cardBack_blue2.png</Source>
+      <Name>Cards\cardBack_blue2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\mike\documents\visual studio 2010\Projects\XnaSolitaire\XnaSolitaire\XnaSolitaire\bin\x86\Debug\Content\Cards\cardBack_blue2.xnb</Output>
+      <Time>2014-08-04T15:37:36.6010042-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Cards\cardBack_blue3.png</Source>
+      <Name>Cards\cardBack_blue3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\mike\documents\visual studio 2010\Projects\XnaSolitaire\XnaSolitaire\XnaSolitaire\bin\x86\Debug\Content\Cards\cardBack_blue3.xnb</Output>
+      <Time>2014-08-04T15:37:36.6030044-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Cards\cardBack_green1.png</Source>
+      <Name>Cards\cardBack_green1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\mike\documents\visual studio 2010\Projects\XnaSolitaire\XnaSolitaire\XnaSolitaire\bin\x86\Debug\Content\Cards\cardBack_green1.xnb</Output>
+      <Time>2014-08-04T15:37:36.6045046-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Cards\cardBack_green2.png</Source>
+      <Name>Cards\cardBack_green2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\mike\documents\visual studio 2010\Projects\XnaSolitaire\XnaSolitaire\XnaSolitaire\bin\x86\Debug\Content\Cards\cardBack_green2.xnb</Output>
+      <Time>2014-08-04T15:37:36.6065049-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Cards\cardBack_green3.png</Source>
+      <Name>Cards\cardBack_green3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\mike\documents\visual studio 2010\Projects\XnaSolitaire\XnaSolitaire\XnaSolitaire\bin\x86\Debug\Content\Cards\cardBack_green3.xnb</Output>
+      <Time>2014-08-04T15:37:36.6085051-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Cards\cardBack_red1.png</Source>
+      <Name>Cards\cardBack_red1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\mike\documents\visual studio 2010\Projects\XnaSolitaire\XnaSolitaire\XnaSolitaire\bin\x86\Debug\Content\Cards\cardBack_red1.xnb</Output>
+      <Time>2014-08-04T15:37:36.6105054-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Cards\cardBack_red2.png</Source>
+      <Name>Cards\cardBack_red2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\mike\documents\visual studio 2010\Projects\XnaSolitaire\XnaSolitaire\XnaSolitaire\bin\x86\Debug\Content\Cards\cardBack_red2.xnb</Output>
+      <Time>2014-08-04T15:37:36.6125056-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Cards\cardBack_red3.png</Source>
+      <Name>Cards\cardBack_red3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\mike\documents\visual studio 2010\Projects\XnaSolitaire\XnaSolitaire\XnaSolitaire\bin\x86\Debug\Content\Cards\cardBack_red3.xnb</Output>
+      <Time>2014-08-04T15:37:36.6145059-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Cards\Eight of Clubs.png</Source>
+      <Name>Cards\Eight of Clubs</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\mike\documents\visual studio 2010\Projects\XnaSolitaire\XnaSolitaire\XnaSolitaire\bin\x86\Debug\Content\Cards\Eight of Clubs.xnb</Output>
+      <Time>2014-08-04T15:37:36.6165062-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Cards\Eight of Diamonds.png</Source>
+      <Name>Cards\Eight of Diamonds</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\mike\documents\visual studio 2010\Projects\XnaSolitaire\XnaSolitaire\XnaSolitaire\bin\x86\Debug\Content\Cards\Eight of Diamonds.xnb</Output>
+      <Time>2014-08-04T15:37:36.6185064-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Cards\Eight of Hearts.png</Source>
+      <Name>Cards\Eight of Hearts</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\mike\documents\visual studio 2010\Projects\XnaSolitaire\XnaSolitaire\XnaSolitaire\bin\x86\Debug\Content\Cards\Eight of Hearts.xnb</Output>
+      <Time>2014-08-04T15:37:36.6205067-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Cards\Eight of Spades.png</Source>
+      <Name>Cards\Eight of Spades</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\mike\documents\visual studio 2010\Projects\XnaSolitaire\XnaSolitaire\XnaSolitaire\bin\x86\Debug\Content\Cards\Eight of Spades.xnb</Output>
+      <Time>2014-08-04T15:37:36.623507-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Cards\Five of Clubs.png</Source>
+      <Name>Cards\Five of Clubs</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\mike\documents\visual studio 2010\Projects\XnaSolitaire\XnaSolitaire\XnaSolitaire\bin\x86\Debug\Content\Cards\Five of Clubs.xnb</Output>
+      <Time>2014-08-04T15:37:36.6325082-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Cards\Five of Diamonds.png</Source>
+      <Name>Cards\Five of Diamonds</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\mike\documents\visual studio 2010\Projects\XnaSolitaire\XnaSolitaire\XnaSolitaire\bin\x86\Debug\Content\Cards\Five of Diamonds.xnb</Output>
+      <Time>2014-08-04T15:37:36.6340084-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Cards\Five of Hearts.png</Source>
+      <Name>Cards\Five of Hearts</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\mike\documents\visual studio 2010\Projects\XnaSolitaire\XnaSolitaire\XnaSolitaire\bin\x86\Debug\Content\Cards\Five of Hearts.xnb</Output>
+      <Time>2014-08-04T15:37:36.6355086-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Cards\Five of Spades.png</Source>
+      <Name>Cards\Five of Spades</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\mike\documents\visual studio 2010\Projects\XnaSolitaire\XnaSolitaire\XnaSolitaire\bin\x86\Debug\Content\Cards\Five of Spades.xnb</Output>
+      <Time>2014-08-04T15:37:36.6370088-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Cards\Four of Clubs.png</Source>
+      <Name>Cards\Four of Clubs</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\mike\documents\visual studio 2010\Projects\XnaSolitaire\XnaSolitaire\XnaSolitaire\bin\x86\Debug\Content\Cards\Four of Clubs.xnb</Output>
+      <Time>2014-08-04T15:37:36.6385089-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Cards\Four of Diamonds.png</Source>
+      <Name>Cards\Four of Diamonds</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\mike\documents\visual studio 2010\Projects\XnaSolitaire\XnaSolitaire\XnaSolitaire\bin\x86\Debug\Content\Cards\Four of Diamonds.xnb</Output>
+      <Time>2014-08-04T15:37:36.6400091-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Cards\Four of Hearts.png</Source>
+      <Name>Cards\Four of Hearts</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\mike\documents\visual studio 2010\Projects\XnaSolitaire\XnaSolitaire\XnaSolitaire\bin\x86\Debug\Content\Cards\Four of Hearts.xnb</Output>
+      <Time>2014-08-04T15:37:36.6415093-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Cards\Four of Spades.png</Source>
+      <Name>Cards\Four of Spades</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\mike\documents\visual studio 2010\Projects\XnaSolitaire\XnaSolitaire\XnaSolitaire\bin\x86\Debug\Content\Cards\Four of Spades.xnb</Output>
+      <Time>2014-08-04T15:37:36.6435096-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Cards\Jack of Clubs.png</Source>
+      <Name>Cards\Jack of Clubs</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\mike\documents\visual studio 2010\Projects\XnaSolitaire\XnaSolitaire\XnaSolitaire\bin\x86\Debug\Content\Cards\Jack of Clubs.xnb</Output>
+      <Time>2014-08-04T15:37:36.6445097-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Cards\Jack of Diamonds.png</Source>
+      <Name>Cards\Jack of Diamonds</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\mike\documents\visual studio 2010\Projects\XnaSolitaire\XnaSolitaire\XnaSolitaire\bin\x86\Debug\Content\Cards\Jack of Diamonds.xnb</Output>
+      <Time>2014-08-04T15:37:36.6565112-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Cards\Jack of Hearts.png</Source>
+      <Name>Cards\Jack of Hearts</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\mike\documents\visual studio 2010\Projects\XnaSolitaire\XnaSolitaire\XnaSolitaire\bin\x86\Debug\Content\Cards\Jack of Hearts.xnb</Output>
+      <Time>2014-08-04T15:37:36.6585115-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Cards\Jack of Spades.png</Source>
+      <Name>Cards\Jack of Spades</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\mike\documents\visual studio 2010\Projects\XnaSolitaire\XnaSolitaire\XnaSolitaire\bin\x86\Debug\Content\Cards\Jack of Spades.xnb</Output>
+      <Time>2014-08-04T15:37:36.6605117-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Cards\King of Clubs.png</Source>
+      <Name>Cards\King of Clubs</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\mike\documents\visual studio 2010\Projects\XnaSolitaire\XnaSolitaire\XnaSolitaire\bin\x86\Debug\Content\Cards\King of Clubs.xnb</Output>
+      <Time>2014-08-04T15:37:36.662512-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Cards\King of Diamonds.png</Source>
+      <Name>Cards\King of Diamonds</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\mike\documents\visual studio 2010\Projects\XnaSolitaire\XnaSolitaire\XnaSolitaire\bin\x86\Debug\Content\Cards\King of Diamonds.xnb</Output>
+      <Time>2014-08-04T15:37:36.6640122-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Cards\King of Hearts.png</Source>
+      <Name>Cards\King of Hearts</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\mike\documents\visual studio 2010\Projects\XnaSolitaire\XnaSolitaire\XnaSolitaire\bin\x86\Debug\Content\Cards\King of Hearts.xnb</Output>
+      <Time>2014-08-04T15:37:36.6650123-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Cards\King of Spades.png</Source>
+      <Name>Cards\King of Spades</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\mike\documents\visual studio 2010\Projects\XnaSolitaire\XnaSolitaire\XnaSolitaire\bin\x86\Debug\Content\Cards\King of Spades.xnb</Output>
+      <Time>2014-08-04T15:37:36.6665125-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Cards\Nine of Clubs.png</Source>
+      <Name>Cards\Nine of Clubs</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\mike\documents\visual studio 2010\Projects\XnaSolitaire\XnaSolitaire\XnaSolitaire\bin\x86\Debug\Content\Cards\Nine of Clubs.xnb</Output>
+      <Time>2014-08-04T15:37:36.6685128-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Cards\Nine of Diamonds.png</Source>
+      <Name>Cards\Nine of Diamonds</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\mike\documents\visual studio 2010\Projects\XnaSolitaire\XnaSolitaire\XnaSolitaire\bin\x86\Debug\Content\Cards\Nine of Diamonds.xnb</Output>
+      <Time>2014-08-04T15:37:36.6700129-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Cards\Nine of Hearts.png</Source>
+      <Name>Cards\Nine of Hearts</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\mike\documents\visual studio 2010\Projects\XnaSolitaire\XnaSolitaire\XnaSolitaire\bin\x86\Debug\Content\Cards\Nine of Hearts.xnb</Output>
+      <Time>2014-08-04T15:37:36.6715131-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Cards\Nine of Spades.png</Source>
+      <Name>Cards\Nine of Spades</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\mike\documents\visual studio 2010\Projects\XnaSolitaire\XnaSolitaire\XnaSolitaire\bin\x86\Debug\Content\Cards\Nine of Spades.xnb</Output>
+      <Time>2014-08-04T15:37:36.6730133-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Cards\Queen of Clubs.png</Source>
+      <Name>Cards\Queen of Clubs</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\mike\documents\visual studio 2010\Projects\XnaSolitaire\XnaSolitaire\XnaSolitaire\bin\x86\Debug\Content\Cards\Queen of Clubs.xnb</Output>
+      <Time>2014-08-04T15:37:36.6745135-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Cards\Queen of Diamonds.png</Source>
+      <Name>Cards\Queen of Diamonds</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\mike\documents\visual studio 2010\Projects\XnaSolitaire\XnaSolitaire\XnaSolitaire\bin\x86\Debug\Content\Cards\Queen of Diamonds.xnb</Output>
+      <Time>2014-08-04T15:37:36.6755136-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Cards\Queen of Hearts.png</Source>
+      <Name>Cards\Queen of Hearts</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\mike\documents\visual studio 2010\Projects\XnaSolitaire\XnaSolitaire\XnaSolitaire\bin\x86\Debug\Content\Cards\Queen of Hearts.xnb</Output>
+      <Time>2014-08-04T15:37:36.6770138-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Cards\Queen of Spades.png</Source>
+      <Name>Cards\Queen of Spades</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\mike\documents\visual studio 2010\Projects\XnaSolitaire\XnaSolitaire\XnaSolitaire\bin\x86\Debug\Content\Cards\Queen of Spades.xnb</Output>
+      <Time>2014-08-04T15:37:36.678514-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Cards\Seven of Clubs.png</Source>
+      <Name>Cards\Seven of Clubs</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\mike\documents\visual studio 2010\Projects\XnaSolitaire\XnaSolitaire\XnaSolitaire\bin\x86\Debug\Content\Cards\Seven of Clubs.xnb</Output>
+      <Time>2014-08-04T15:37:36.6795142-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Cards\Seven of Diamonds.png</Source>
+      <Name>Cards\Seven of Diamonds</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\mike\documents\visual studio 2010\Projects\XnaSolitaire\XnaSolitaire\XnaSolitaire\bin\x86\Debug\Content\Cards\Seven of Diamonds.xnb</Output>
+      <Time>2014-08-04T15:37:36.6810143-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Cards\Seven of Hearts.png</Source>
+      <Name>Cards\Seven of Hearts</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\mike\documents\visual studio 2010\Projects\XnaSolitaire\XnaSolitaire\XnaSolitaire\bin\x86\Debug\Content\Cards\Seven of Hearts.xnb</Output>
+      <Time>2014-08-04T15:37:36.6820145-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Cards\Seven of Spades.png</Source>
+      <Name>Cards\Seven of Spades</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\mike\documents\visual studio 2010\Projects\XnaSolitaire\XnaSolitaire\XnaSolitaire\bin\x86\Debug\Content\Cards\Seven of Spades.xnb</Output>
+      <Time>2014-08-04T15:37:36.6840147-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Cards\Six of Clubs.png</Source>
+      <Name>Cards\Six of Clubs</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\mike\documents\visual studio 2010\Projects\XnaSolitaire\XnaSolitaire\XnaSolitaire\bin\x86\Debug\Content\Cards\Six of Clubs.xnb</Output>
+      <Time>2014-08-04T15:37:36.6855149-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Cards\Six of Diamonds.png</Source>
+      <Name>Cards\Six of Diamonds</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\mike\documents\visual studio 2010\Projects\XnaSolitaire\XnaSolitaire\XnaSolitaire\bin\x86\Debug\Content\Cards\Six of Diamonds.xnb</Output>
+      <Time>2014-08-04T15:37:36.6875152-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Cards\Six of Hearts.png</Source>
+      <Name>Cards\Six of Hearts</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\mike\documents\visual studio 2010\Projects\XnaSolitaire\XnaSolitaire\XnaSolitaire\bin\x86\Debug\Content\Cards\Six of Hearts.xnb</Output>
+      <Time>2014-08-04T15:37:36.6890154-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Cards\Six of Spades.png</Source>
+      <Name>Cards\Six of Spades</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\mike\documents\visual studio 2010\Projects\XnaSolitaire\XnaSolitaire\XnaSolitaire\bin\x86\Debug\Content\Cards\Six of Spades.xnb</Output>
+      <Time>2014-08-04T15:37:36.6910156-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Cards\Ten of Clubs.png</Source>
+      <Name>Cards\Ten of Clubs</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\mike\documents\visual studio 2010\Projects\XnaSolitaire\XnaSolitaire\XnaSolitaire\bin\x86\Debug\Content\Cards\Ten of Clubs.xnb</Output>
+      <Time>2014-08-04T15:37:36.6925158-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Cards\Ten of Diamonds.png</Source>
+      <Name>Cards\Ten of Diamonds</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\mike\documents\visual studio 2010\Projects\XnaSolitaire\XnaSolitaire\XnaSolitaire\bin\x86\Debug\Content\Cards\Ten of Diamonds.xnb</Output>
+      <Time>2014-08-04T15:37:36.694016-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Cards\Ten of Hearts.png</Source>
+      <Name>Cards\Ten of Hearts</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\mike\documents\visual studio 2010\Projects\XnaSolitaire\XnaSolitaire\XnaSolitaire\bin\x86\Debug\Content\Cards\Ten of Hearts.xnb</Output>
+      <Time>2014-08-04T15:37:36.6950161-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Cards\Ten of Spades.png</Source>
+      <Name>Cards\Ten of Spades</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\mike\documents\visual studio 2010\Projects\XnaSolitaire\XnaSolitaire\XnaSolitaire\bin\x86\Debug\Content\Cards\Ten of Spades.xnb</Output>
+      <Time>2014-08-04T15:37:36.6965163-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Cards\Three of Clubs.png</Source>
+      <Name>Cards\Three of Clubs</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\mike\documents\visual studio 2010\Projects\XnaSolitaire\XnaSolitaire\XnaSolitaire\bin\x86\Debug\Content\Cards\Three of Clubs.xnb</Output>
+      <Time>2014-08-04T15:37:36.7135185-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Cards\Three of Diamonds.png</Source>
+      <Name>Cards\Three of Diamonds</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\mike\documents\visual studio 2010\Projects\XnaSolitaire\XnaSolitaire\XnaSolitaire\bin\x86\Debug\Content\Cards\Three of Diamonds.xnb</Output>
+      <Time>2014-08-04T15:37:36.7150187-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Cards\Three of Hearts.png</Source>
+      <Name>Cards\Three of Hearts</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\mike\documents\visual studio 2010\Projects\XnaSolitaire\XnaSolitaire\XnaSolitaire\bin\x86\Debug\Content\Cards\Three of Hearts.xnb</Output>
+      <Time>2014-08-04T15:37:36.7165189-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Cards\Three of Spades.png</Source>
+      <Name>Cards\Three of Spades</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\mike\documents\visual studio 2010\Projects\XnaSolitaire\XnaSolitaire\XnaSolitaire\bin\x86\Debug\Content\Cards\Three of Spades.xnb</Output>
+      <Time>2014-08-04T15:37:36.7185191-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Cards\Two of Clubs.png</Source>
+      <Name>Cards\Two of Clubs</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\mike\documents\visual studio 2010\Projects\XnaSolitaire\XnaSolitaire\XnaSolitaire\bin\x86\Debug\Content\Cards\Two of Clubs.xnb</Output>
+      <Time>2014-08-04T15:37:36.7200193-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Cards\Two of Diamonds.png</Source>
+      <Name>Cards\Two of Diamonds</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\mike\documents\visual studio 2010\Projects\XnaSolitaire\XnaSolitaire\XnaSolitaire\bin\x86\Debug\Content\Cards\Two of Diamonds.xnb</Output>
+      <Time>2014-08-04T15:37:36.7215195-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Cards\Two of Hearts.png</Source>
+      <Name>Cards\Two of Hearts</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\mike\documents\visual studio 2010\Projects\XnaSolitaire\XnaSolitaire\XnaSolitaire\bin\x86\Debug\Content\Cards\Two of Hearts.xnb</Output>
+      <Time>2014-08-04T15:37:36.7225196-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Cards\Two of Spades.png</Source>
+      <Name>Cards\Two of Spades</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\mike\documents\visual studio 2010\Projects\XnaSolitaire\XnaSolitaire\XnaSolitaire\bin\x86\Debug\Content\Cards\Two of Spades.xnb</Output>
+      <Time>2014-08-04T15:37:36.7240198-04:00</Time>
+    </Item>
+    <Item>
+      <Source>LocationBox.png</Source>
+      <Name>LocationBox</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\mike\documents\visual studio 2010\Projects\XnaSolitaire\XnaSolitaire\XnaSolitaire\bin\x86\Debug\Content\LocationBox.xnb</Output>
+      <Time>2014-08-04T15:37:44.332986-04:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>c:\users\mike\documents\visual studio 2010\Projects\XnaSolitaire\XnaSolitaire\XnaSolitaireContent\</RootDirectory>
+      <LoggerRootDirectory>c:\users\mike\documents\visual studio 2010\Projects\XnaSolitaire\XnaSolitaire\XnaSolitaire\</LoggerRootDirectory>
+      <IntermediateDirectory>c:\users\mike\documents\visual studio 2010\Projects\XnaSolitaire\XnaSolitaire\XnaSolitaireContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>c:\users\mike\documents\visual studio 2010\Projects\XnaSolitaire\XnaSolitaire\XnaSolitaire\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2014-03-17T14:01:57.4500998-04:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

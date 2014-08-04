@@ -1,0 +1,71 @@
+c:\users\mike\documents\visual studio 2010\Projects\XnaSolitaire\XnaSolitaire\XnaSolitaire\obj\x86\Debug\XnaSolitaire.csprojResolveAssemblyReference.cache
+c:\users\mike\documents\visual studio 2010\Projects\XnaSolitaire\XnaSolitaire\XnaSolitaire\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\users\mike\documents\visual studio 2010\Projects\XnaSolitaire\XnaSolitaire\XnaSolitaire\bin\x86\Debug\Content\Backgrounds\Green Fancy.xnb
+c:\users\mike\documents\visual studio 2010\Projects\XnaSolitaire\XnaSolitaire\XnaSolitaire\bin\x86\Debug\Content\Backgrounds\Green Leaf.xnb
+c:\users\mike\documents\visual studio 2010\Projects\XnaSolitaire\XnaSolitaire\XnaSolitaire\bin\x86\Debug\Content\Backgrounds\Purple Wave.xnb
+c:\users\mike\documents\visual studio 2010\Projects\XnaSolitaire\XnaSolitaire\XnaSolitaire\bin\x86\Debug\Content\Cards\Ace of Clubs.xnb
+c:\users\mike\documents\visual studio 2010\Projects\XnaSolitaire\XnaSolitaire\XnaSolitaire\bin\x86\Debug\Content\Cards\Ace of Diamonds.xnb
+c:\users\mike\documents\visual studio 2010\Projects\XnaSolitaire\XnaSolitaire\XnaSolitaire\bin\x86\Debug\Content\Cards\Ace of Hearts.xnb
+c:\users\mike\documents\visual studio 2010\Projects\XnaSolitaire\XnaSolitaire\XnaSolitaire\bin\x86\Debug\Content\Cards\Ace of Spades.xnb
+c:\users\mike\documents\visual studio 2010\Projects\XnaSolitaire\XnaSolitaire\XnaSolitaire\bin\x86\Debug\Content\Cards\cardBack_blue1.xnb
+c:\users\mike\documents\visual studio 2010\Projects\XnaSolitaire\XnaSolitaire\XnaSolitaire\bin\x86\Debug\Content\Cards\cardBack_blue2.xnb
+c:\users\mike\documents\visual studio 2010\Projects\XnaSolitaire\XnaSolitaire\XnaSolitaire\bin\x86\Debug\Content\Cards\cardBack_blue3.xnb
+c:\users\mike\documents\visual studio 2010\Projects\XnaSolitaire\XnaSolitaire\XnaSolitaire\bin\x86\Debug\Content\Cards\cardBack_green1.xnb
+c:\users\mike\documents\visual studio 2010\Projects\XnaSolitaire\XnaSolitaire\XnaSolitaire\bin\x86\Debug\Content\Cards\cardBack_green2.xnb
+c:\users\mike\documents\visual studio 2010\Projects\XnaSolitaire\XnaSolitaire\XnaSolitaire\bin\x86\Debug\Content\Cards\cardBack_green3.xnb
+c:\users\mike\documents\visual studio 2010\Projects\XnaSolitaire\XnaSolitaire\XnaSolitaire\bin\x86\Debug\Content\Cards\cardBack_red1.xnb
+c:\users\mike\documents\visual studio 2010\Projects\XnaSolitaire\XnaSolitaire\XnaSolitaire\bin\x86\Debug\Content\Cards\cardBack_red2.xnb
+c:\users\mike\documents\visual studio 2010\Projects\XnaSolitaire\XnaSolitaire\XnaSolitaire\bin\x86\Debug\Content\Cards\cardBack_red3.xnb
+c:\users\mike\documents\visual studio 2010\Projects\XnaSolitaire\XnaSolitaire\XnaSolitaire\bin\x86\Debug\Content\Cards\Eight of Clubs.xnb
+c:\users\mike\documents\visual studio 2010\Projects\XnaSolitaire\XnaSolitaire\XnaSolitaire\bin\x86\Debug\Content\Cards\Eight of Diamonds.xnb
+c:\users\mike\documents\visual studio 2010\Projects\XnaSolitaire\XnaSolitaire\XnaSolitaire\bin\x86\Debug\Content\Cards\Eight of Hearts.xnb
+c:\users\mike\documents\visual studio 2010\Projects\XnaSolitaire\XnaSolitaire\XnaSolitaire\bin\x86\Debug\Content\Cards\Eight of Spades.xnb
+c:\users\mike\documents\visual studio 2010\Projects\XnaSolitaire\XnaSolitaire\XnaSolitaire\bin\x86\Debug\Content\Cards\Five of Clubs.xnb
+c:\users\mike\documents\visual studio 2010\Projects\XnaSolitaire\XnaSolitaire\XnaSolitaire\bin\x86\Debug\Content\Cards\Five of Diamonds.xnb
+c:\users\mike\documents\visual studio 2010\Projects\XnaSolitaire\XnaSolitaire\XnaSolitaire\bin\x86\Debug\Content\Cards\Five of Hearts.xnb
+c:\users\mike\documents\visual studio 2010\Projects\XnaSolitaire\XnaSolitaire\XnaSolitaire\bin\x86\Debug\Content\Cards\Five of Spades.xnb
+c:\users\mike\documents\visual studio 2010\Projects\XnaSolitaire\XnaSolitaire\XnaSolitaire\bin\x86\Debug\Content\Cards\Four of Clubs.xnb
+c:\users\mike\documents\visual studio 2010\Projects\XnaSolitaire\XnaSolitaire\XnaSolitaire\bin\x86\Debug\Content\Cards\Four of Diamonds.xnb
+c:\users\mike\documents\visual studio 2010\Projects\XnaSolitaire\XnaSolitaire\XnaSolitaire\bin\x86\Debug\Content\Cards\Four of Hearts.xnb
+c:\users\mike\documents\visual studio 2010\Projects\XnaSolitaire\XnaSolitaire\XnaSolitaire\bin\x86\Debug\Content\Cards\Four of Spades.xnb
+c:\users\mike\documents\visual studio 2010\Projects\XnaSolitaire\XnaSolitaire\XnaSolitaire\bin\x86\Debug\Content\Cards\Jack of Clubs.xnb
+c:\users\mike\documents\visual studio 2010\Projects\XnaSolitaire\XnaSolitaire\XnaSolitaire\bin\x86\Debug\Content\Cards\Jack of Diamonds.xnb
+c:\users\mike\documents\visual studio 2010\Projects\XnaSolitaire\XnaSolitaire\XnaSolitaire\bin\x86\Debug\Content\Cards\Jack of Hearts.xnb
+c:\users\mike\documents\visual studio 2010\Projects\XnaSolitaire\XnaSolitaire\XnaSolitaire\bin\x86\Debug\Content\Cards\Jack of Spades.xnb
+c:\users\mike\documents\visual studio 2010\Projects\XnaSolitaire\XnaSolitaire\XnaSolitaire\bin\x86\Debug\Content\Cards\King of Clubs.xnb
+c:\users\mike\documents\visual studio 2010\Projects\XnaSolitaire\XnaSolitaire\XnaSolitaire\bin\x86\Debug\Content\Cards\King of Diamonds.xnb
+c:\users\mike\documents\visual studio 2010\Projects\XnaSolitaire\XnaSolitaire\XnaSolitaire\bin\x86\Debug\Content\Cards\King of Hearts.xnb
+c:\users\mike\documents\visual studio 2010\Projects\XnaSolitaire\XnaSolitaire\XnaSolitaire\bin\x86\Debug\Content\Cards\King of Spades.xnb
+c:\users\mike\documents\visual studio 2010\Projects\XnaSolitaire\XnaSolitaire\XnaSolitaire\bin\x86\Debug\Content\Cards\Nine of Clubs.xnb
+c:\users\mike\documents\visual studio 2010\Projects\XnaSolitaire\XnaSolitaire\XnaSolitaire\bin\x86\Debug\Content\Cards\Nine of Diamonds.xnb
+c:\users\mike\documents\visual studio 2010\Projects\XnaSolitaire\XnaSolitaire\XnaSolitaire\bin\x86\Debug\Content\Cards\Nine of Hearts.xnb
+c:\users\mike\documents\visual studio 2010\Projects\XnaSolitaire\XnaSolitaire\XnaSolitaire\bin\x86\Debug\Content\Cards\Nine of Spades.xnb
+c:\users\mike\documents\visual studio 2010\Projects\XnaSolitaire\XnaSolitaire\XnaSolitaire\bin\x86\Debug\Content\Cards\Queen of Clubs.xnb
+c:\users\mike\documents\visual studio 2010\Projects\XnaSolitaire\XnaSolitaire\XnaSolitaire\bin\x86\Debug\Content\Cards\Queen of Diamonds.xnb
+c:\users\mike\documents\visual studio 2010\Projects\XnaSolitaire\XnaSolitaire\XnaSolitaire\bin\x86\Debug\Content\Cards\Queen of Hearts.xnb
+c:\users\mike\documents\visual studio 2010\Projects\XnaSolitaire\XnaSolitaire\XnaSolitaire\bin\x86\Debug\Content\Cards\Queen of Spades.xnb
+c:\users\mike\documents\visual studio 2010\Projects\XnaSolitaire\XnaSolitaire\XnaSolitaire\bin\x86\Debug\Content\Cards\Seven of Clubs.xnb
+c:\users\mike\documents\visual studio 2010\Projects\XnaSolitaire\XnaSolitaire\XnaSolitaire\bin\x86\Debug\Content\Cards\Seven of Diamonds.xnb
+c:\users\mike\documents\visual studio 2010\Projects\XnaSolitaire\XnaSolitaire\XnaSolitaire\bin\x86\Debug\Content\Cards\Seven of Hearts.xnb
+c:\users\mike\documents\visual studio 2010\Projects\XnaSolitaire\XnaSolitaire\XnaSolitaire\bin\x86\Debug\Content\Cards\Seven of Spades.xnb
+c:\users\mike\documents\visual studio 2010\Projects\XnaSolitaire\XnaSolitaire\XnaSolitaire\bin\x86\Debug\Content\Cards\Six of Clubs.xnb
+c:\users\mike\documents\visual studio 2010\Projects\XnaSolitaire\XnaSolitaire\XnaSolitaire\bin\x86\Debug\Content\Cards\Six of Diamonds.xnb
+c:\users\mike\documents\visual studio 2010\Projects\XnaSolitaire\XnaSolitaire\XnaSolitaire\bin\x86\Debug\Content\Cards\Six of Hearts.xnb
+c:\users\mike\documents\visual studio 2010\Projects\XnaSolitaire\XnaSolitaire\XnaSolitaire\bin\x86\Debug\Content\Cards\Six of Spades.xnb
+c:\users\mike\documents\visual studio 2010\Projects\XnaSolitaire\XnaSolitaire\XnaSolitaire\bin\x86\Debug\Content\Cards\Ten of Clubs.xnb
+c:\users\mike\documents\visual studio 2010\Projects\XnaSolitaire\XnaSolitaire\XnaSolitaire\bin\x86\Debug\Content\Cards\Ten of Diamonds.xnb
+c:\users\mike\documents\visual studio 2010\Projects\XnaSolitaire\XnaSolitaire\XnaSolitaire\bin\x86\Debug\Content\Cards\Ten of Hearts.xnb
+c:\users\mike\documents\visual studio 2010\Projects\XnaSolitaire\XnaSolitaire\XnaSolitaire\bin\x86\Debug\Content\Cards\Ten of Spades.xnb
+c:\users\mike\documents\visual studio 2010\Projects\XnaSolitaire\XnaSolitaire\XnaSolitaire\bin\x86\Debug\Content\Cards\Three of Clubs.xnb
+c:\users\mike\documents\visual studio 2010\Projects\XnaSolitaire\XnaSolitaire\XnaSolitaire\bin\x86\Debug\Content\Cards\Three of Diamonds.xnb
+c:\users\mike\documents\visual studio 2010\Projects\XnaSolitaire\XnaSolitaire\XnaSolitaire\bin\x86\Debug\Content\Cards\Three of Hearts.xnb
+c:\users\mike\documents\visual studio 2010\Projects\XnaSolitaire\XnaSolitaire\XnaSolitaire\bin\x86\Debug\Content\Cards\Three of Spades.xnb
+c:\users\mike\documents\visual studio 2010\Projects\XnaSolitaire\XnaSolitaire\XnaSolitaire\bin\x86\Debug\Content\Cards\Two of Clubs.xnb
+c:\users\mike\documents\visual studio 2010\Projects\XnaSolitaire\XnaSolitaire\XnaSolitaire\bin\x86\Debug\Content\Cards\Two of Diamonds.xnb
+c:\users\mike\documents\visual studio 2010\Projects\XnaSolitaire\XnaSolitaire\XnaSolitaire\bin\x86\Debug\Content\Cards\Two of Hearts.xnb
+c:\users\mike\documents\visual studio 2010\Projects\XnaSolitaire\XnaSolitaire\XnaSolitaire\bin\x86\Debug\Content\Cards\Two of Spades.xnb
+c:\users\mike\documents\visual studio 2010\Projects\XnaSolitaire\XnaSolitaire\XnaSolitaire\bin\x86\Debug\Content\LocationBox.xnb
+c:\users\mike\documents\visual studio 2010\Projects\XnaSolitaire\XnaSolitaire\XnaSolitaire\bin\x86\Debug\XnaSolitaire.exe
+c:\users\mike\documents\visual studio 2010\Projects\XnaSolitaire\XnaSolitaire\XnaSolitaire\bin\x86\Debug\XnaSolitaire.pdb
+c:\users\mike\documents\visual studio 2010\Projects\XnaSolitaire\XnaSolitaire\XnaSolitaire\obj\x86\Debug\XnaSolitaire.exe
+c:\users\mike\documents\visual studio 2010\Projects\XnaSolitaire\XnaSolitaire\XnaSolitaire\obj\x86\Debug\XnaSolitaire.pdb
