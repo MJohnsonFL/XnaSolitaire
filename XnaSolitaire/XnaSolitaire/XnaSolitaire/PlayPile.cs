@@ -54,7 +54,7 @@ namespace XnaSolitaire
                 }
                 return false;
             }
-            else if (card.Suit == Suit.Clubs || card.Suit == Suit.Spades)
+            else if (card.Suit == Suit.Clubs || card.Suit == Suit.Spades) // Need to fix so that colors alternate ...Right now works good for testing
             {
                 if (this.TopCard.Rank == card.Rank + 1)
                 {

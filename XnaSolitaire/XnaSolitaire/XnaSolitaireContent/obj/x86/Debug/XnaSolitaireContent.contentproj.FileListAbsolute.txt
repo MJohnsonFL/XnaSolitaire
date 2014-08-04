@@ -1,1 +1,2 @@
 c:\users\mike\documents\visual studio 2010\Projects\XnaSolitaire\XnaSolitaire\XnaSolitaireContent\obj\x86\Debug\XnaSolitaireContent.contentprojResolveAssemblyReference.cache
+C:\Users\Mike\Documents\GitHub\XnaSolitaire\XnaSolitaire\XnaSolitaire\XnaSolitaireContent\obj\x86\Debug\XnaSolitaireContent.contentprojResolveAssemblyReference.cache

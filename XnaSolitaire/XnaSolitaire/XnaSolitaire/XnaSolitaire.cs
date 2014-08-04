@@ -35,19 +35,6 @@ namespace XnaSolitaire
                                                      new AcePile(new Vector2(900, 50)),
                                                      new AcePile(new Vector2(1075, 50))};
 
-        //PlayPile PlayPiles[0] = new PlayPile(new Vector2(25, 250));
-        //PlayPile PlayPiles[1] = new PlayPile(new Vector2(200, 250));
-        //PlayPile PlayPiles[2] = new PlayPile(new Vector2(375, 250));
-        //PlayPile PlayPiles[3] = new PlayPile(new Vector2(550, 250));
-        //PlayPile PlayPiles[4] = new PlayPile(new Vector2(725, 250));
-        //PlayPile PlayPiles[5] = new PlayPile(new Vector2(900, 250));
-        //PlayPile PlayPiles[6] = new PlayPile(new Vector2(1075, 250));
-
-        //AcePile AcePiles[0] = new AcePile(new Vector2(550, 50));
-        //AcePile AcePiles[1] = new AcePile(new Vector2(725, 50));
-        //AcePile AcePiles[2] = new AcePile(new Vector2(900, 50));
-        //AcePile AcePiles[3] = new AcePile(new Vector2(1075, 50));
-
         KeyboardState currentKey;
         KeyboardState previousKey;
 
@@ -91,19 +78,6 @@ namespace XnaSolitaire
 
             foreach (PlayPile playPile in PlayPiles)
                 playPile.LoadContent(Content);
-
-            //AcePiles[0].LoadContent(Content);
-            //AcePiles[1].LoadContent(Content);
-            //AcePiles[2].LoadContent(Content);
-            //AcePiles[3].LoadContent(Content);
-
-            //PlayPiles[0].LoadContent(Content);
-            //PlayPiles[1].LoadContent(Content);
-            //PlayPiles[2].LoadContent(Content);
-            //PlayPiles[3].LoadContent(Content);
-            //PlayPiles[4].LoadContent(Content);
-            //PlayPiles[5].LoadContent(Content);
-            //PlayPiles[6].LoadContent(Content);
 
             SetupNewSolitaireGame();
         }
@@ -154,33 +128,12 @@ namespace XnaSolitaire
                     FaceUpPile.AddCard(c);
                 }
                 // Play Piles
-                if (!PlayPiles[0].IsEmpty && PlayPiles[0].TopCard.isFaceDown)
+                foreach (PlayPile playPile in PlayPiles)
                 {
-                    PlayPiles[0].TopCard.isFaceDown = false;
-                }
-                if (!PlayPiles[1].IsEmpty && PlayPiles[1].TopCard.isFaceDown)
-                {
-                    PlayPiles[1].TopCard.isFaceDown = false;
-                }
-                if (!PlayPiles[2].IsEmpty && PlayPiles[2].TopCard.isFaceDown)
-                {
-                    PlayPiles[2].TopCard.isFaceDown = false;
-                }
-                if (!PlayPiles[3].IsEmpty && PlayPiles[3].TopCard.isFaceDown)
-                {
-                    PlayPiles[3].TopCard.isFaceDown = false;
-                }
-                if (!PlayPiles[4].IsEmpty && PlayPiles[4].TopCard.isFaceDown)
-                {
-                    PlayPiles[4].TopCard.isFaceDown = false;
-                }
-                if (!PlayPiles[5].IsEmpty && PlayPiles[5].TopCard.isFaceDown)
-                {
-                    PlayPiles[5].TopCard.isFaceDown = false;
-                }
-                if (!PlayPiles[6].IsEmpty && PlayPiles[6].TopCard.isFaceDown)
-                {
-                    PlayPiles[6].TopCard.isFaceDown = false;
+                    if (!playPile.IsEmpty && playPile.TopCard.isFaceDown)
+                    {
+                        playPile.TopCard.isFaceDown = false;
+                    }
                 }
             }
             #endregion
@@ -372,19 +325,6 @@ namespace XnaSolitaire
 
             foreach (PlayPile playPile in PlayPiles)
                 playPile.Draw(spriteBatch);
-
-            //PlayPiles[0].Draw(spriteBatch);
-            //PlayPiles[1].Draw(spriteBatch);
-            //PlayPiles[2].Draw(spriteBatch);
-            //PlayPiles[3].Draw(spriteBatch);
-            //PlayPiles[4].Draw(spriteBatch);
-            //PlayPiles[5].Draw(spriteBatch);
-            //PlayPiles[6].Draw(spriteBatch);
-
-            //AcePiles[0].Draw(spriteBatch);
-            //AcePiles[1].Draw(spriteBatch);
-            //AcePiles[2].Draw(spriteBatch);
-            //AcePiles[3].Draw(spriteBatch);
 
             MyHand.Draw(spriteBatch);
 
