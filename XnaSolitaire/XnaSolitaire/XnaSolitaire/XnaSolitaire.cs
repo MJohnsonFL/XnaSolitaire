@@ -219,87 +219,38 @@ namespace XnaSolitaire
                 {
                     Point cardCorner = new Point((int)MyHand.TopCard.Position.X, (int)MyHand.TopCard.Position.Y);
 
-                    if (AcePiles[0].Rectangle.Contains(cardCorner))
+                    foreach (AcePile acePile in AcePiles)
                     {
-                        if (AcePiles[0].IsLegalAdd(MyHand.TopCard))
-                            AcePiles[0].AddCard(MyHand.TakeCard());
-                        else
-                            MyHand.LastDeck.AddCard(MyHand.TakeCard());
+                        if (acePile.TopCard.CardRectangle.Contains(cardCorner) || acePile.Rectangle.Contains(cardCorner))
+                        {
+                            if (acePile.IsLegalAdd(MyHand.TopCard))
+                            {
+                                acePile.AddCard(MyHand.TakeCard());
+                                break;
+                            }
+                        }
                     }
-                    else if (AcePiles[1].Rectangle.Contains(cardCorner))
+                }
+
+                if (MyHand.IsEmpty == false)
+                {
+                    Point cardCorner = new Point((int)MyHand.TopCard.Position.X, (int)MyHand.TopCard.Position.Y);
+
+                    foreach (PlayPile playPile in PlayPiles)
                     {
-                        if (AcePiles[1].IsLegalAdd(MyHand.TopCard))
-                            AcePiles[1].AddCard(MyHand.TakeCard());
-                        else
-                            MyHand.LastDeck.AddCard(MyHand.TakeCard());
+                        if (playPile.TopCard.CardRectangle.Contains(cardCorner) || playPile.Rectangle.Contains(cardCorner))
+                        {
+                            if (playPile.IsLegalAdd(MyHand.TopCard))
+                            {
+                                playPile.AddCard(MyHand.TakeCard());
+                                break;
+                            }
+                        }
                     }
-                    else if (AcePiles[2].Rectangle.Contains(cardCorner))
-                    {
-                        if (AcePiles[2].IsLegalAdd(MyHand.TopCard))
-                            AcePiles[2].AddCard(MyHand.TakeCard());
-                        else
-                            MyHand.LastDeck.AddCard(MyHand.TakeCard());
-                    }
-                    else if (AcePiles[3].Rectangle.Contains(cardCorner))
-                    {
-                        if (AcePiles[3].IsLegalAdd(MyHand.TopCard))
-                            AcePiles[3].AddCard(MyHand.TakeCard());
-                        else
-                            MyHand.LastDeck.AddCard(MyHand.TakeCard());
-                    }
-                    else if (PlayPiles[0].Rectangle.Contains(cardCorner))
-                    {
-                        if (PlayPiles[0].IsLegalAdd(MyHand.TopCard))
-                            PlayPiles[0].AddCard(MyHand.TakeCard());
-                        else
-                            MyHand.LastDeck.AddCard(MyHand.TakeCard());
-                    }
-                    else if (PlayPiles[1].Rectangle.Contains(cardCorner))
-                    {
-                        if (PlayPiles[1].IsLegalAdd(MyHand.TopCard))
-                            PlayPiles[1].AddCard(MyHand.TakeCard());
-                        else
-                            MyHand.LastDeck.AddCard(MyHand.TakeCard());
-                    }
-                    else if (PlayPiles[2].Rectangle.Contains(cardCorner))
-                    {
-                        if (PlayPiles[2].IsLegalAdd(MyHand.TopCard))
-                            PlayPiles[2].AddCard(MyHand.TakeCard());
-                        else
-                            MyHand.LastDeck.AddCard(MyHand.TakeCard());
-                    }
-                    else if (PlayPiles[3].Rectangle.Contains(cardCorner))
-                    {
-                        if (PlayPiles[3].IsLegalAdd(MyHand.TopCard))
-                            PlayPiles[3].AddCard(MyHand.TakeCard());
-                        else
-                            MyHand.LastDeck.AddCard(MyHand.TakeCard());
-                    }
-                    else if (PlayPiles[4].Rectangle.Contains(cardCorner))
-                    {
-                        if (PlayPiles[4].IsLegalAdd(MyHand.TopCard))
-                            PlayPiles[4].AddCard(MyHand.TakeCard());
-                        else
-                            MyHand.LastDeck.AddCard(MyHand.TakeCard());
-                    }
-                    else if (PlayPiles[5].Rectangle.Contains(cardCorner))
-                    {
-                        if (PlayPiles[5].IsLegalAdd(MyHand.TopCard))
-                            PlayPiles[5].AddCard(MyHand.TakeCard());
-                        else
-                            MyHand.LastDeck.AddCard(MyHand.TakeCard());
-                    }
-                    else if (PlayPiles[6].Rectangle.Contains(cardCorner))
-                    {
-                        if (PlayPiles[6].IsLegalAdd(MyHand.TopCard))
-                            PlayPiles[6].AddCard(MyHand.TakeCard());
-                        else
-                            MyHand.LastDeck.AddCard(MyHand.TakeCard());
-                    }
-                    else
-                    {
-                        MyHand.LastDeck.AddCard(MyHand.TakeCard());
-                    }
+                }
+                if (MyHand.IsEmpty == false)
+                {
+                    MyHand.LastDeck.AddCard(MyHand.TakeCard());
                 }
             }
             #endregion
@@ -345,49 +296,14 @@ namespace XnaSolitaire
                 card.LoadContent(Content);
             }
 
-            //foreach (Card c in DrawPile.TakeCards(7))
-            //{
-            //    PlayPiles[6].AddCard(c);
-            //}
-            for (int i = 0; i < 7; i++)
+            for (int i = 0; i < PlayPiles.Count; i++)
             {
-                Card c = deck.TakeCard();
-                PlayPiles[6].AddCard(c);
+                for (int j = 0; i >= j; j++)
+                {
+                    PlayPiles[i].AddCard(deck.TakeCard());
+                }
+                PlayPiles[i].Cards[i].isFaceDown = false;
             }
-            for (int i = 0; i < 6; i++)
-            {
-                Card c = deck.TakeCard();
-                PlayPiles[5].AddCard(c);
-            }
-            for (int i = 0; i < 5; i++)
-            {
-                Card c = deck.TakeCard();
-                PlayPiles[4].AddCard(c);
-            }
-            for (int i = 0; i < 4; i++)
-            {
-                Card c = deck.TakeCard();
-                PlayPiles[3].AddCard(c);
-            }
-            for (int i = 0; i < 3; i++)
-            {
-                Card c = deck.TakeCard();
-                PlayPiles[2].AddCard(c);
-            }
-            for (int i = 0; i < 2; i++)
-            {
-                Card c = deck.TakeCard();
-                PlayPiles[1].AddCard(c);
-            }
-            PlayPiles[0].AddCard(deck.TakeCard());
-
-            PlayPiles[0].Cards[0].isFaceDown = false;
-            PlayPiles[1].Cards[1].isFaceDown = false;
-            PlayPiles[2].Cards[2].isFaceDown = false;
-            PlayPiles[3].Cards[3].isFaceDown = false;
-            PlayPiles[4].Cards[4].isFaceDown = false;
-            PlayPiles[5].Cards[5].isFaceDown = false;
-            PlayPiles[6].Cards[6].isFaceDown = false;
 
             for (int i = 0; i < deck.Cards.Count; i++)
             {

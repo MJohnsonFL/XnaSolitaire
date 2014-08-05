@@ -21,7 +21,7 @@ namespace XnaSolitaire
         public Rectangle CardRectangle
         {
             get { return cardRectangle; }
-            set { cardRectangle = value; }
+            // set { cardRectangle = value; }
         }
 
         public bool isFaceDown = true;
