@@ -100,6 +100,11 @@ namespace XnaSolitaire
                 background.Change();
             }
 
+            if (currentKey.IsKeyDown(Keys.F2) && previousKey.IsKeyUp(Keys.F2))
+            {
+                SetupNewSolitaireGame();
+            }
+
             mousePosition = new Vector2(currentMouse.X, currentMouse.Y);
             Point mousePoint = new Point((int)mousePosition.X, (int)mousePosition.Y);
 
@@ -286,6 +291,14 @@ namespace XnaSolitaire
 
         public void SetupNewSolitaireGame()
         {
+            DrawPile.Cards.Clear();
+            FaceUpPile.Cards.Clear();
+            MyHand.Cards.Clear();
+            foreach (AcePile acePile in AcePiles)
+                acePile.Cards.Clear();
+            foreach (PlayPile playPile in PlayPiles)
+                playPile.Cards.Clear();
+
             Deck deck = new Deck();
 
             deck.FillDeck();
@@ -312,5 +325,6 @@ namespace XnaSolitaire
             }
 
         }
+
     }
 }

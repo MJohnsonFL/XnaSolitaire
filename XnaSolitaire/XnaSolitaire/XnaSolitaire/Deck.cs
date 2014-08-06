@@ -39,7 +39,7 @@ namespace XnaSolitaire
         {
             if (Cards.Count >= 1)
                 Cards = Cards.OrderBy(c => Guid.NewGuid()).ToList();
-        }
+        } 
 
         public Card TakeCard()
         {
