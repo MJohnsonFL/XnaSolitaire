@@ -227,6 +227,7 @@ namespace XnaSolitaire
                     foreach (AcePile acePile in AcePiles)
                     {
                         if (acePile.TopCard.CardRectangle.Contains(cardCorner) || acePile.Rectangle.Contains(cardCorner))
+                        //if (acePile.Rectangle.Contains(cardCorner))
                         {
                             if (acePile.IsLegalAdd(MyHand.TopCard))
                             {
@@ -318,7 +319,7 @@ namespace XnaSolitaire
                 PlayPiles[i].Cards[i].isFaceDown = false;
             }
 
-            for (int i = 0; i < deck.Cards.Count; i++)
+            for (int i = 0; deck.Cards.Count > 0; i++)
             {
                 Card c = deck.TakeCard();
                 DrawPile.AddCard(c);

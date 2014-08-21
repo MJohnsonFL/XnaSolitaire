@@ -120,6 +120,7 @@
     <Compile Include="Program.cs" />
     <Compile Include="XnaSolitaire.cs" />
     <Compile Include="Zone.cs" />
+    <Compile Include="ZoneBox.cs" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="Game.ico" />
